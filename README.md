@@ -1,16 +1,15 @@
-# PDF_Quizzer
+# Email Tone Transfer
 
-PDF_Quizzer is an open-source AI solution that creates high-quality quizzes based on a given PDF, tailored to a designated skill level and background. The generated quizzes can be produced as text output or in a format suitable for Brightspace quiz import.
+The Email Tone Transfer is an AI solution that converts text/prompt into an email or translates a given email into understandable language.
 
 ## Features
 
-- Generative AI and LangChain integration to process PDFs and create quizzes and answer keys
-- No programming background required for usage
-- Runs on Google Colab, with no additional installations needed
+- One bot that can accomplish both tasks OR Two specialized bots, one for converting text into email and one to translate an email
+- No programming background required for using the bot(s)
 
 ## Getting Started
 
-To use PDF_Quizzer, simply open it in Google Colab. It will take a few minutes to spin up and automatically install the required packages.
+We will be using www.poe.com custom bot creation, so try going to the website and looking around to learn more about how it works.
 
 ## Contributing
 
@@ -22,16 +21,11 @@ We aim to create a welcoming and inclusive community where everyone can feel com
 
 ## Meetings
 
-- Sprint Planning: Mondays at 9 am
-- Backlog Grooming: Wednesdays at 10 am
-- Retrospective: Fridays at 9 am
-- Demos: Fridays at 3 pm
+- Sprint Planning: Mondays at 10:00 am
 
 ## Additional Resources
 
-- LangChain documentation
-- Introduction to transformers and generative AI on our [YouTube channel](https://www.youtube.com/channel/UC8C2_3L5gR9qLmL7rmb2BdQ)
-- AI Summer and AI Winter sessions (free and open to all)
+- www.poe.com
 
 ## Reporting Issues
 
