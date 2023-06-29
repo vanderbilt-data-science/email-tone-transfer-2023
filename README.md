@@ -1,14 +1,17 @@
 # Email Tone Transfer
 
-Email Tone Transfer is an AI solution that can convert text/prompt into an email or translate a given email into plain/understandable language
+Email Tone Transfer is an AI solution that can convert text/prompt into an email or translate a given email into plain/understandable language. The goal of this project is to provide an email generation or email summarization tool for English learners or neuroatypical users. 
 
 ## Features
 
-- One bot that can accomplish both tasks OR Two bots, one for converting text/prompt and one for translating.
+Two chat bots hosted on [Poe](www.poe.com) that respectively generate an email or summarize an email:
+- [Email Generation](https://poe.com/EmailAssistant0)
+- [Email Summarization](https://poe.com/tonetranfer)
 
 ## Getting Started
+Use the links above to access the Poe chatbots for your specific need. 
 
-We will be using www.poe.com custom bot creation, so visit the website and familiarize yourself with how the bot creation works
+If interested, you can visit Poe's website to learn more about Poe bots, as well as how custom bots are created. 
 
 ## Contributing
 
